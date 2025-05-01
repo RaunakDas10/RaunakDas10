@@ -20,6 +20,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RaunakDas10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 GitHub Badges
+[![An image of @raunakdas10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raunakdas10)](https://holopin.io/@raunakdas10)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
