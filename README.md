@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Raunak Das
+#  Hi 👋, I'm Raunak Das✨
 **A First Year ECE enthusiast || Tech Aficionado || UI/UX Learner || from KOLKATA** 😊😊
 <img align="right" alt="Geeksomaniac" width="100" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
@@ -26,7 +26,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RaunakDas10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 GitHub Badges
+## 💥GitHub Badges
 [![An image of @raunakdas10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raunakdas10)](https://holopin.io/@raunakdas10)
 
 ### ✍️ Random Dev Quote
