@@ -1,7 +1,12 @@
 # 💫 Hi 👋, I'm Raunak Das
 **A First Year ECE enthusiast || Tech Aficionado || UI/UX Learner || from KOLKATA** 😊😊
+<img align="right" alt="Geeksomaniac" width="420" src="[[https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/digaxn7-b52c9765-13ce-4034-b99d-f1a6b1030161.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGlnYXhuNy1iNTJjOTc2NS0xM2NlLTQwMzQtYjk5ZC1mMWE2YjEwMzAxNjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FoaDgitcpu_edwuaxVURu1dXsmow2djnal4VcSwghLw](https://pin.it/oxYxWS0jx)](https://pin.it/oxYxWS0jx)">
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_just.raunak10_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak-das-681428330) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/not_raunak10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raunak.msit.ece10@gmail.com) 
+
+<img align="center" alt="Geeksomaniac" width="2800" height="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRyM2hsNXVqbWFqZXZqaTF0ZXlzNTBucnl0aGdia3NtMTQyd2QzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8wCBLhkjNknS/giphy.gif">
+
 
 <!-- Snake Game Repo View -->
 
