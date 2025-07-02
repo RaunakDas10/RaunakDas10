@@ -1,5 +1,5 @@
 #  Hi 👋, I'm Raunak Das✨
-**A First Year ECE enthusiast || Tech Aficionado || UI/UX Learner || from KOLKATA** 😊😊
+**A Second Year ECE enthusiast || Tech Aficionado || UI/UX Learner || from KOLKATA** 😊😊
 <img align="right" alt="Geeksomaniac" width="100" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 
